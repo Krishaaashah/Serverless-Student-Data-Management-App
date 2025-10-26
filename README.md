@@ -1,4 +1,4 @@
-# 🧾 Serverless Student Data Management System
+# Serverless Student Data Management System
 
 A fully serverless web application deployed on **Amazon Web Services (AWS)** for managing student data efficiently and securely.  
 The project demonstrates cloud-native deployment using modern serverless services to achieve scalability, security, and cost optimization.
@@ -80,6 +80,12 @@ It eliminates traditional server management by using AWS services that automatic
 **Krisha Shah**  
 Cloud Computing Project  
 *October 2025*
+
+
+
+
+https://github.com/user-attachments/assets/c17cb0b0-b554-4a4f-834e-19769fefc887
+
 
 ---
 
